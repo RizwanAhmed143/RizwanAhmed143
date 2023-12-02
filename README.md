@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RizwanAhmed143
 - 👀 I’m interested in latest technology in IT
 - 🌱 I’m currently learning web 3, Metaverse, Generative AI
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on software development, Metaverse, Web 3, AI
 - 📫 How to reach me mob: +92 3323381925,email rizwanahmed143@hotmail.com
 
 <!---
